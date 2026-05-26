@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 500,
     "y": 100,
-    "z": 0
+    "z": 500
   },
   "utils": {
     "auto-auth": {
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Im an Automated bot desiged to prolong human life",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -52,7 +52,7 @@
       "enabled": true,
       "interval": 5000
     },
-    "random-jump": {p
+    "random-jump": {
       "enabled": true,
       "interval": 10000
     }
@@ -63,7 +63,7 @@
     "beds": false,
     "chat": true,
     "console-commands": true
-  },p
+  },
   "combat": {
     "attack-mobs": true,
     "auto-eat": true
