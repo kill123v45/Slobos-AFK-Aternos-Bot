@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "testestesttest"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 360,
       "messages": [
-        "",
-        "",
+        "i",
+        "i",
         ""
       ]
     },
